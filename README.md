@@ -1,4 +1,6 @@
 # :tangerine: jamongK
+Web Developer. S.Korea.
+
 ## Tech Stack
 #### Main Stack
 <p>
