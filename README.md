@@ -27,7 +27,7 @@ Web Developer. S.Korea.
 
 ## Career
 ### KnowledgePoint
-2021.08.09 ~ : KT) 녹취파일 관리 시스템 개발 및 운영 담당자
+2021.08.09 ~ 2023.05.12 : KT) 녹취파일 관리 시스템 개발 및 운영 담당자
 
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
